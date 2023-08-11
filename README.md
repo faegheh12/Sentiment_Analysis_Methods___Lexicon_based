@@ -61,4 +61,5 @@ Sentiment_Analysis_lex('path of csv file','text column on dataset',['AFINN','Tex
 3. https://github.com/harika-bonthu/Lexicon-based-SentimentAnalysis
 4. https://github.com/cjhutto/vaderSentiment
 5. https://textblob.readthedocs.io/en/dev/quickstart.html
+6. https://github.com/MHDBST/PerSenT/blob/main/dev.csv
 
